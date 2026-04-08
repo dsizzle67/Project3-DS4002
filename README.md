@@ -23,6 +23,7 @@ project-root/
 │   └── 
 ├── SCRIPTS
 │   └── DataPreprocessing.ipynb
+│   └── Project3-MI2-EDA.ipynb
 ├── .gitignore
 ├── LICENSE
 └── README.md
