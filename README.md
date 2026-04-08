@@ -37,5 +37,7 @@ project-root/
 
 ## References
 [1] Tensorflow, “Image Classification, ” Tensorflow. [Online]. Available: https://www.tensorflow.org/tutorials/images/classification
+
 [2] McKillop, T. (2022, July 5). What is image classification? The Data School. https://www.thedataschool.co.uk/tyler-mckillop/what-3/
+
 [3] Strezoski, G., & Worring, M. (2017). OmniArt: Multi-task deep learning for artistic data analysis. arXiv. https://doi.org/10.48550/arXiv.1708.00684
