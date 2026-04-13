@@ -20,7 +20,8 @@ project-root/
 |   └── MetObjects_FINAL.csv
 │   └── Data Appendix.pdf
 ├── OUTPUT
-│   └── 
+│   └── EDA-Graph-1.jpg
+|   └── EDA-Graph-2.jpg
 ├── SCRIPTS
 │   └── DataPreprocessing.ipynb
 │   └── Project3-MI2-EDA.ipynb
