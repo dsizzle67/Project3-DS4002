@@ -19,12 +19,14 @@ project-root/
 ├── DATA
 |   └── MetObjects_FINAL.csv
 │   └── Data Appendix.pdf
+│   └── IMAGES.tar.gz
 ├── OUTPUT
 │   └── EDA-Graph-1.jpg
 |   └── EDA-Graph-2.jpg
 ├── SCRIPTS
-│   └── DataPreprocessing.ipynb
 │   └── Project3-MI2-EDA.ipynb
+│   └── Project3-MI3-Analysis.ipynb
+│   └── Project3-MI3-Image-Scraping.ipynb
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -32,8 +34,9 @@ project-root/
 
 ## Result Reproduction Instructions
 
-1. Download the data from the DATA folder.
-2. Install all necessary packages/modules (listed above). Make sure that the package are installed in the environment you will be using to run the notebook.
+1. Download the IMAGES.tar.gz from the DATA folder.
+2. Install all necessary packages/modules (listed above). Make sure that the package are installed in the environment you will be using to run the analysis notebook.
+3. Download Project3-MI3-Analysis.ipynb and follow the instructions in the notebook.
 
 
 ## References
