@@ -8,7 +8,16 @@ Authors: Daria Slowinska, Carly Farrey, Isaiah Lucero
 Analysis was performed using Python in a Jupyter Notebook run in both Visual Studio Code and Google Colab.
 
 Required Modules:
-* 
+* matplotlib
+    * install: https://matplotlib.org/stable/install/index.html
+* numpy
+    * install: https://numpy.org/install/
+* pillow
+    * install: https://pillow.readthedocs.io/en/stable/installation/basic-installation.html
+* tensorflow
+    * install: https://www.tensorflow.org/install/pip
+* pathlib
+    * install: https://pypi.org/project/pathlib/
 
 Platform Used:
 * MacOS, Windows
@@ -35,7 +44,7 @@ project-root/
 ## Result Reproduction Instructions
 
 1. Download the IMAGES.tar.gz from the DATA folder.
-2. Install all necessary packages/modules (listed above). Make sure that the package are installed in the environment you will be using to run the analysis notebook.
+2. Install all necessary packages/modules (listed above). Make sure that the package are installed in the environment you will be using to run the analysis notebook. **NOTE** It is recommended to create a new/separate virtual environment in order to avoid package conflicts that may arise when installing tensorflow.
 3. Download Project3-MI3-Analysis.ipynb and follow the instructions in the notebook.
 
 
