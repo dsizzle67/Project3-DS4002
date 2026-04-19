@@ -32,6 +32,9 @@ project-root/
 ├── OUTPUT
 │   └── EDA-Graph-1.jpg
 |   └── EDA-Graph-2.jpg
+|   └── Model-1-Training-Results.png
+|   └── Model-2-Training-Results.png
+|   └── Model-3-Training-Results.png
 ├── SCRIPTS
 │   └── Project3-MI2-EDA.ipynb
 │   └── Project3-MI3-Analysis.ipynb
